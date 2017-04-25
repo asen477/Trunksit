@@ -1,0 +1,20 @@
+{
+    "name": "asen477/trunksit",
+    "description": "trunksit.com",
+    "type": "sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Trunks(高明)",
+            "email": "52351240@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+	"psr-4": {
+		"BaoCai\\Yprint\\": "src/"
+	}
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
